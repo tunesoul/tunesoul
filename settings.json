@@ -1,0 +1,14 @@
+{
+  "input_dir": "/workspace/input",
+  "output_dir": "/workspace/output",
+  "theme": "system",
+  "last_pdf": "",
+  "last_xlsm": "",
+  "last_xlsb": "",
+  "last_xlsx": "",
+  "last_sheet": "",
+  "last_km": "",
+  "last_dp": "",
+  "cleanup_after_cycle": false,
+  "window_geometry": ""
+}
